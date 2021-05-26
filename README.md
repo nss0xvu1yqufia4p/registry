@@ -1,0 +1,2 @@
+# registry
+Docker registry service
